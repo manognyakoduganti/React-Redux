@@ -1,8 +1,8 @@
 export default function() {
     return [
-        {title: 'JS: For beginners'},
-        {title: 'jodi picoult House Rules'},
-        {title: 'jodi picoult the pact'},
-        {title: 'jodi picoult my sisters keeper'},
+        {title: 'JS: For beginners', pages: 100},
+        {title: 'jodi picoult House Rules', pages: 100},
+        {title: 'jodi picoult the pact', pages: 100},
+        {title: 'jodi picoult my sisters keeper', pages: 100},
     ]
 }
